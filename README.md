@@ -1,3 +1,3 @@
 # Python programs
 
-# This repository includes programs written and submitted for competitions
+# This repository includes python programs written
